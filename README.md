@@ -19,5 +19,5 @@ Step 4 → ci-cd pipeline
 Step5 → Monitering via Prmotheus and grafana
 Step 6 → Terraform Destroy
 
-My blog link for this project-->
+My blog link for this project--> https://medium.com/@pardeep.singh14/amazon-app-clone-deployment-with-terraform-and-jenkins-ci-cd-05529e5ee5fe
                 
